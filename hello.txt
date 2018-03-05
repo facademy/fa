@@ -1,3 +1,1 @@
 Hello world
-Add new line for new branch
-Add new line for master
